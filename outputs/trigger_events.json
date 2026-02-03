@@ -1,0 +1,512 @@
+[
+  {
+    "date": "2024-08-04",
+    "file": "oisst-avhrr-v02r01.20240804.nc",
+    "T_t": 29.533695220947266,
+    "D_con": 5,
+    "V_var": 0.35519981384277344,
+    "HRI": 3.144702703251096,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-08-05",
+    "file": "oisst-avhrr-v02r01.20240805.nc",
+    "T_t": 29.6763916015625,
+    "D_con": 6,
+    "V_var": 0.14269638061523438,
+    "HRI": 3.3044679111143678,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-08-06",
+    "file": "oisst-avhrr-v02r01.20240806.nc",
+    "T_t": 29.765661239624023,
+    "D_con": 7,
+    "V_var": 0.08926963806152344,
+    "HRI": 3.473849291998654,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-08-07",
+    "file": "oisst-avhrr-v02r01.20240807.nc",
+    "T_t": 29.88228416442871,
+    "D_con": 8,
+    "V_var": 0.1166229248046875,
+    "HRI": 3.6983752887000305,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-08-08",
+    "file": "oisst-avhrr-v02r01.20240808.nc",
+    "T_t": 30.02776336669922,
+    "D_con": 9,
+    "V_var": 0.1454792022705078,
+    "HRI": 3.9425710422297096,
+    "trigger": true,
+    "level": "SEVERE"
+  },
+  {
+    "date": "2024-08-09",
+    "file": "oisst-avhrr-v02r01.20240809.nc",
+    "T_t": 30.175434112548828,
+    "D_con": 10,
+    "V_var": 0.14767074584960938,
+    "HRI": 4.167585703712329,
+    "trigger": true,
+    "level": "SEVERE"
+  },
+  {
+    "date": "2024-08-10",
+    "file": "oisst-avhrr-v02r01.20240810.nc",
+    "T_t": 30.127809524536133,
+    "D_con": 11,
+    "V_var": 0.04762458801269531,
+    "HRI": 4.139547138372881,
+    "trigger": true,
+    "level": "SEVERE"
+  },
+  {
+    "date": "2024-08-11",
+    "file": "oisst-avhrr-v02r01.20240811.nc",
+    "T_t": 30.08077621459961,
+    "D_con": 12,
+    "V_var": 0.04703330993652344,
+    "HRI": 4.1562523555371005,
+    "trigger": true,
+    "level": "SEVERE"
+  },
+  {
+    "date": "2024-08-12",
+    "file": "oisst-avhrr-v02r01.20240812.nc",
+    "T_t": 30.077625274658203,
+    "D_con": 13,
+    "V_var": 0.00315093994140625,
+    "HRI": 4.190446608321113,
+    "trigger": true,
+    "level": "SEVERE"
+  },
+  {
+    "date": "2024-08-13",
+    "file": "oisst-avhrr-v02r01.20240813.nc",
+    "T_t": 30.092876434326172,
+    "D_con": 14,
+    "V_var": 0.01525115966796875,
+    "HRI": 4.266942175041924,
+    "trigger": true,
+    "level": "SEVERE"
+  },
+  {
+    "date": "2024-08-14",
+    "file": "oisst-avhrr-v02r01.20240814.nc",
+    "T_t": 30.018400192260742,
+    "D_con": 15,
+    "V_var": 0.07447624206542969,
+    "HRI": 4.273709291085282,
+    "trigger": true,
+    "level": "SEVERE"
+  },
+  {
+    "date": "2024-08-15",
+    "file": "oisst-avhrr-v02r01.20240815.nc",
+    "T_t": 29.995569229125977,
+    "D_con": 16,
+    "V_var": 0.022830963134765625,
+    "HRI": 4.273555385938332,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-08-16",
+    "file": "oisst-avhrr-v02r01.20240816.nc",
+    "T_t": 30.04621124267578,
+    "D_con": 17,
+    "V_var": 0.05064201354980469,
+    "HRI": 4.383829655767615,
+    "trigger": true,
+    "level": "SEVERE"
+  },
+  {
+    "date": "2024-08-17",
+    "file": "oisst-avhrr-v02r01.20240817.nc",
+    "T_t": 30.123104095458984,
+    "D_con": 18,
+    "V_var": 0.07689285278320312,
+    "HRI": 4.517101705183738,
+    "trigger": true,
+    "level": "SEVERE"
+  },
+  {
+    "date": "2024-08-18",
+    "file": "oisst-avhrr-v02r01.20240818.nc",
+    "T_t": 30.105205535888672,
+    "D_con": 19,
+    "V_var": 0.0178985595703125,
+    "HRI": 4.5107406345170205,
+    "trigger": true,
+    "level": "SEVERE"
+  },
+  {
+    "date": "2024-08-19",
+    "file": "oisst-avhrr-v02r01.20240819.nc",
+    "T_t": 30.074522018432617,
+    "D_con": 20,
+    "V_var": 0.030683517456054688,
+    "HRI": 4.525481727339383,
+    "trigger": true,
+    "level": "SEVERE"
+  },
+  {
+    "date": "2024-08-20",
+    "file": "oisst-avhrr-v02r01.20240820.nc",
+    "T_t": 29.999862670898438,
+    "D_con": 21,
+    "V_var": 0.07465934753417969,
+    "HRI": 4.510026307352181,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-08-21",
+    "file": "oisst-avhrr-v02r01.20240821.nc",
+    "T_t": 29.852739334106445,
+    "D_con": 22,
+    "V_var": 0.1471233367919922,
+    "HRI": 4.434696375245761,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-08-22",
+    "file": "oisst-avhrr-v02r01.20240822.nc",
+    "T_t": 29.737213134765625,
+    "D_con": 23,
+    "V_var": 0.11552619934082031,
+    "HRI": 4.3374192987143925,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-08-23",
+    "file": "oisst-avhrr-v02r01.20240823.nc",
+    "T_t": 29.78337860107422,
+    "D_con": 24,
+    "V_var": 0.04616546630859375,
+    "HRI": 4.381561994123077,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-08-24",
+    "file": "oisst-avhrr-v02r01.20240824.nc",
+    "T_t": 29.874473571777344,
+    "D_con": 25,
+    "V_var": 0.091094970703125,
+    "HRI": 4.526498287546092,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-08-25",
+    "file": "oisst-avhrr-v02r01.20240825.nc",
+    "T_t": 29.96689224243164,
+    "D_con": 26,
+    "V_var": 0.09241867065429688,
+    "HRI": 4.649771070562252,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-08-26",
+    "file": "oisst-avhrr-v02r01.20240826.nc",
+    "T_t": 30.07342529296875,
+    "D_con": 27,
+    "V_var": 0.10653305053710938,
+    "HRI": 4.792455426377468,
+    "trigger": true,
+    "level": "SEVERE"
+  },
+  {
+    "date": "2024-08-27",
+    "file": "oisst-avhrr-v02r01.20240827.nc",
+    "T_t": 30.04292106628418,
+    "D_con": 28,
+    "V_var": 0.030504226684570312,
+    "HRI": 4.752009843615644,
+    "trigger": true,
+    "level": "SEVERE"
+  },
+  {
+    "date": "2024-08-28",
+    "file": "oisst-avhrr-v02r01.20240828.nc",
+    "T_t": 29.82556915283203,
+    "D_con": 29,
+    "V_var": 0.21735191345214844,
+    "HRI": 4.65520301488783,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-08-29",
+    "file": "oisst-avhrr-v02r01.20240829.nc",
+    "T_t": 29.57556915283203,
+    "D_con": 30,
+    "V_var": 0.25,
+    "HRI": 4.447758916420149,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-08-30",
+    "file": "oisst-avhrr-v02r01.20240830.nc",
+    "T_t": 29.366621017456055,
+    "D_con": 31,
+    "V_var": 0.20894813537597656,
+    "HRI": 4.243683807383825,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-08-31",
+    "file": "oisst-avhrr-v02r01.20240831.nc",
+    "T_t": 29.25885772705078,
+    "D_con": 32,
+    "V_var": 0.10776329040527344,
+    "HRI": 4.109945421426602,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-09-01",
+    "file": "oisst-avhrr-v02r01.20240901.nc",
+    "T_t": 29.33114242553711,
+    "D_con": 33,
+    "V_var": 0.07228469848632812,
+    "HRI": 4.188373194473202,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-09-02",
+    "file": "oisst-avhrr-v02r01.20240902.nc",
+    "T_t": 29.320409774780273,
+    "D_con": 34,
+    "V_var": 0.010732650756835938,
+    "HRI": 4.170054549350223,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-09-03",
+    "file": "oisst-avhrr-v02r01.20240903.nc",
+    "T_t": 29.153879165649414,
+    "D_con": 35,
+    "V_var": 0.16653060913085938,
+    "HRI": 4.103959620979731,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-09-04",
+    "file": "oisst-avhrr-v02r01.20240904.nc",
+    "T_t": 29.059133529663086,
+    "D_con": 36,
+    "V_var": 0.09474563598632812,
+    "HRI": 3.99524067777163,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-09-05",
+    "file": "oisst-avhrr-v02r01.20240905.nc",
+    "T_t": 29.163469314575195,
+    "D_con": 37,
+    "V_var": 0.10433578491210938,
+    "HRI": 4.125706134812359,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-09-06",
+    "file": "oisst-avhrr-v02r01.20240906.nc",
+    "T_t": 29.28725814819336,
+    "D_con": 38,
+    "V_var": 0.12378883361816406,
+    "HRI": 4.280001881906159,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-09-07",
+    "file": "oisst-avhrr-v02r01.20240907.nc",
+    "T_t": 29.4425106048584,
+    "D_con": 39,
+    "V_var": 0.15525245666503906,
+    "HRI": 4.471240396482067,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-09-08",
+    "file": "oisst-avhrr-v02r01.20240908.nc",
+    "T_t": 29.572511672973633,
+    "D_con": 40,
+    "V_var": 0.13000106811523438,
+    "HRI": 4.6083698603946965,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-09-09",
+    "file": "oisst-avhrr-v02r01.20240909.nc",
+    "T_t": 29.632373809814453,
+    "D_con": 41,
+    "V_var": 0.05986213684082031,
+    "HRI": 4.652440572861558,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-09-10",
+    "file": "oisst-avhrr-v02r01.20240910.nc",
+    "T_t": 29.661413192749023,
+    "D_con": 42,
+    "V_var": 0.029039382934570312,
+    "HRI": 4.684892976771159,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-09-11",
+    "file": "oisst-avhrr-v02r01.20240911.nc",
+    "T_t": 29.68803596496582,
+    "D_con": 43,
+    "V_var": 0.026622772216796875,
+    "HRI": 4.728699058208828,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-09-12",
+    "file": "oisst-avhrr-v02r01.20240912.nc",
+    "T_t": 29.70347023010254,
+    "D_con": 44,
+    "V_var": 0.01543426513671875,
+    "HRI": 4.756517354487155,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-09-13",
+    "file": "oisst-avhrr-v02r01.20240913.nc",
+    "T_t": 29.750822067260742,
+    "D_con": 45,
+    "V_var": 0.047351837158203125,
+    "HRI": 4.83741110303112,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-09-14",
+    "file": "oisst-avhrr-v02r01.20240914.nc",
+    "T_t": 29.829999923706055,
+    "D_con": 46,
+    "V_var": 0.0791778564453125,
+    "HRI": 4.949706933296758,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-09-15",
+    "file": "oisst-avhrr-v02r01.20240915.nc",
+    "T_t": 29.592327117919922,
+    "D_con": 47,
+    "V_var": 0.2376728057861328,
+    "HRI": 4.808124329539302,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-09-16",
+    "file": "oisst-avhrr-v02r01.20240916.nc",
+    "T_t": 29.481048583984375,
+    "D_con": 48,
+    "V_var": 0.11127853393554688,
+    "HRI": 4.65014408944065,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-09-17",
+    "file": "oisst-avhrr-v02r01.20240917.nc",
+    "T_t": 29.48145866394043,
+    "D_con": 49,
+    "V_var": 0.0004100799560546875,
+    "HRI": 4.6112821082609745,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-09-18",
+    "file": "oisst-avhrr-v02r01.20240918.nc",
+    "T_t": 29.501415252685547,
+    "D_con": 50,
+    "V_var": 0.019956588745117188,
+    "HRI": 4.656854053237566,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-09-19",
+    "file": "oisst-avhrr-v02r01.20240919.nc",
+    "T_t": 29.361412048339844,
+    "D_con": 51,
+    "V_var": 0.14000320434570312,
+    "HRI": 4.592408625377837,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-09-20",
+    "file": "oisst-avhrr-v02r01.20240920.nc",
+    "T_t": 29.140911102294922,
+    "D_con": 52,
+    "V_var": 0.22050094604492188,
+    "HRI": 4.42739510615908,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-09-21",
+    "file": "oisst-avhrr-v02r01.20240921.nc",
+    "T_t": 28.802921295166016,
+    "D_con": 53,
+    "V_var": 0.33798980712890625,
+    "HRI": 4.163103435981888,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-09-22",
+    "file": "oisst-avhrr-v02r01.20240922.nc",
+    "T_t": 28.36977195739746,
+    "D_con": 54,
+    "V_var": 0.4331493377685547,
+    "HRI": 3.792213174467715,
+    "trigger": true,
+    "level": "WARNING"
+  },
+  {
+    "date": "2024-09-23",
+    "file": "oisst-avhrr-v02r01.20240923.nc",
+    "T_t": 28.081504821777344,
+    "D_con": 55,
+    "V_var": 0.2882671356201172,
+    "HRI": 3.4459197421755223,
+    "trigger": true,
+    "level": "WARNING"
+  }
+]
