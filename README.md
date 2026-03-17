@@ -1,6 +1,5 @@
 # 🌊 Jeju Coastal Heat Risk Index (HRI) Calculation Pipeline
-This pipeline quantifies heat risk in the coastal waters of Jeju using satellite-based Sea Surface Temperature (SST) data and  
-computes a Heat Risk Index (HRI) that can be used for insurance · policy · early warning triggers.
+This pipeline quantifies heat risk in the coastal waters of Jeju using satellite-based Sea Surface Temperature (SST) data and computes a Heat Risk Index (HRI) that can be used for insurance · policy · early warning triggers.
 <br/>
 <br/>
 
